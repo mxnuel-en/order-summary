@@ -91,6 +91,12 @@ button:hover {
      color: hsl(223, 47%, 23%);
      transition: all .2s linear;
 }
+.attribution {
+     font-size: 11px; text-align: center; 
+}
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+}
 
 @media (min-width: 1440px){
      body{
